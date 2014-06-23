@@ -12,4 +12,18 @@ Running the compiled .class file is simple
 
 ```$ java HelloWorld```
 
+Compiling multiple classes into one program is not much different. Assume you have a class called Bicycle.java and a class which contains your main method called BicycleDemo.java. It is not necessary to compile one and then the other. If you call javac on BicycleDemo.java it will compile Bicycle.java automatically.
+
+```bash
+$ ls
+Bicycle.java   BicycleDemo.java
+
+$ javac BicycleDemo.java
+
+$ ls
+Bicycle.class   Bicycle.java   BicycleDemo.class    BicycleDemo.java
+
+$ java BicycleDemo
+```
+
 [JDK]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
