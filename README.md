@@ -26,4 +26,8 @@ Bicycle.class   Bicycle.java   BicycleDemo.class    BicycleDemo.java
 $ java BicycleDemo
 ```
 
+If you want to develop android apps, go get the [Android SDK with Eclipse][Android SDK with Eclipse]! If you want to be able to access an MSSQL database, you will need the [Microsoft JDBC Driver 4.0][Microsoft JDBC Driver 4.0].
+
 [JDK]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+[Android SDK with Eclipse]: https://developer.android.com/training/basics/firstapp/index.html?hl=p
+[Microsoft JDBC Driver 4.0]: http://msdn.microsoft.com/en-us/sqlserver/aa937724.aspx
