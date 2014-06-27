@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClinicDashboard</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="total_visits_label">Visits Today</string>
+    <string name="total_inclinic_label">Patients Now In Clinic</string>
+
+</resources>
